@@ -1,2 +1,2 @@
 # belajargit
-belajar git
+belajar git diupdate
